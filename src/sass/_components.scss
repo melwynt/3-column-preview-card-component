@@ -59,8 +59,19 @@
       background-color: var(--color-very-light-gray);
       border-radius: 2.5rem;
 
+      cursor: pointer;
+
       &__link {
         text-decoration: none;
+      }
+
+      &:hover {
+        border: 0.2rem solid var(--color-very-light-gray);
+        background-color: transparent;
+
+        a {
+          color: var(--color-very-light-gray);
+        }
       }
     }
   }
