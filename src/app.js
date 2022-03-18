@@ -18,7 +18,7 @@ const App = () => {
             </p>
           </div>
           <div className="container__card__btn">
-            <a href="" className="container__card__btn__link">
+            <a href="#" className="container__card__btn__link">
               Learn More
             </a>
           </div>
@@ -37,7 +37,7 @@ const App = () => {
             </p>
           </div>
           <div className="container__card__btn">
-            <a href="" className="container__card__btn__link">
+            <a href="#" className="container__card__btn__link">
               Learn More
             </a>
           </div>
@@ -56,7 +56,7 @@ const App = () => {
             </p>
           </div>
           <div className="container__card__btn">
-            <a href="" className="container__card__btn__link">
+            <a href="#" className="container__card__btn__link">
               Learn More
             </a>
           </div>
